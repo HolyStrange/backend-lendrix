@@ -17,7 +17,6 @@ lendrix\web\app\dto\ConvertDto.class
 lendrix\web\app\entity\Transaction.class
 lendrix\web\app\config\AppConfig.class
 lendrix\web\app\repository\VerificationTokenRepository.class
-lendrix\web\app\service\EmailService.class
 lendrix\web\app\repository\TransactionRepository.class
 lendrix\web\app\entity\MoneyRequest$MoneyRequestBuilder.class
 lendrix\web\app\util\FraudDetectionUtil.class
